@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdbool.h>
-#include <cmp/cmp.h>
+#include "cmp.h"
 
 typedef struct {
     char *buf;
